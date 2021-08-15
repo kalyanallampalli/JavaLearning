@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c24e8bc-17a8-4ec6-95dc-ab9b5c465102" name="Default Changelist" comment="" />
+    <list default="true" id="8c24e8bc-17a8-4ec6-95dc-ab9b5c465102" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/learning/day2/Exercise1Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learning/day2/Exercise2Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learning/day2/Exercise3Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaLearning10Aug.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/learning/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/learning/day1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/learning/Multiplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/learning/day1/Multiplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/learning/Numerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/learning/day1/Numerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/learning/WeekDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/learning/day1/WeekDay.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1wZ8JGMm4cw0pHR2Hr0LJtrgjbl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,10 +41,49 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Exercise3Demo">
+    <configuration name="Exercise1Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.day2.Exercise1Demo" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.day2.Exercise2Demo" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise3Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.day2.Exercise3Demo" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.Main" />
-      <module name="JavaLearning10Aug" />
+      <option name="MAIN_CLASS_NAME" value="com.learning.day1.Main" />
+      <module name="JavaPractice" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -37,8 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingleInheritanceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.day2.SingleInheritanceDemo" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise3Demo" />
+        <item itemvalue="Application.Exercise1Demo" />
+        <item itemvalue="Application.Exercise2Demo" />
+        <item itemvalue="Application.SingleInheritanceDemo" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -54,6 +125,9 @@
       <option name="presentableId" value="Default" />
       <updated>1628654677757</updated>
       <workItem from="1628654683318" duration="4293000" />
+      <workItem from="1628659173692" duration="235000" />
+      <workItem from="1628997823182" duration="82000" />
+      <workItem from="1628997937816" duration="2520000" />
     </task>
     <servers />
   </component>
@@ -61,22 +135,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1722" height="272" key="GridCell.Tab.0.bottom" timestamp="1628659030286">
+    <state x="709" y="243" key="#com.intellij.ide.util.MemberChooser" timestamp="1629000930444">
       <screen x="0" y="25" width="1792" height="1010" />
     </state>
-    <state width="1722" height="272" key="GridCell.Tab.0.bottom/0.25.1792.1010@0.25.1792.1010" timestamp="1628659030286" />
-    <state width="1722" height="272" key="GridCell.Tab.0.center" timestamp="1628659030286">
+    <state x="709" y="243" key="#com.intellij.ide.util.MemberChooser/0.25.1792.1010@0.25.1792.1010" timestamp="1629000930444" />
+    <state width="1722" height="214" key="GridCell.Tab.0.bottom" timestamp="1629000979141">
       <screen x="0" y="25" width="1792" height="1010" />
     </state>
-    <state width="1722" height="272" key="GridCell.Tab.0.center/0.25.1792.1010@0.25.1792.1010" timestamp="1628659030286" />
-    <state width="1722" height="272" key="GridCell.Tab.0.left" timestamp="1628659030285">
+    <state width="1722" height="214" key="GridCell.Tab.0.bottom/0.25.1792.1010@0.25.1792.1010" timestamp="1629000979141" />
+    <state width="1722" height="214" key="GridCell.Tab.0.center" timestamp="1629000979141">
       <screen x="0" y="25" width="1792" height="1010" />
     </state>
-    <state width="1722" height="272" key="GridCell.Tab.0.left/0.25.1792.1010@0.25.1792.1010" timestamp="1628659030285" />
-    <state width="1722" height="272" key="GridCell.Tab.0.right" timestamp="1628659030286">
+    <state width="1722" height="214" key="GridCell.Tab.0.center/0.25.1792.1010@0.25.1792.1010" timestamp="1629000979141" />
+    <state width="1722" height="214" key="GridCell.Tab.0.left" timestamp="1629000979140">
       <screen x="0" y="25" width="1792" height="1010" />
     </state>
-    <state width="1722" height="272" key="GridCell.Tab.0.right/0.25.1792.1010@0.25.1792.1010" timestamp="1628659030286" />
+    <state width="1722" height="214" key="GridCell.Tab.0.left/0.25.1792.1010@0.25.1792.1010" timestamp="1629000979140" />
+    <state width="1722" height="214" key="GridCell.Tab.0.right" timestamp="1629000979141">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1722" height="214" key="GridCell.Tab.0.right/0.25.1792.1010@0.25.1792.1010" timestamp="1629000979141" />
     <state width="1722" height="336" key="GridCell.Tab.1.bottom" timestamp="1628657849326">
       <screen x="0" y="25" width="1792" height="1010" />
     </state>
@@ -93,9 +171,13 @@
       <screen x="0" y="25" width="1792" height="1010" />
     </state>
     <state width="1722" height="336" key="GridCell.Tab.1.right/0.25.1792.1010@0.25.1792.1010" timestamp="1628657849326" />
-    <state x="573" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1628654685359">
+    <state x="573" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1628997823949">
       <screen x="0" y="25" width="1792" height="1010" />
     </state>
-    <state x="573" y="359" key="com.intellij.ide.util.TipDialog/0.25.1792.1010@0.25.1792.1010" timestamp="1628654685359" />
+    <state x="573" y="359" key="com.intellij.ide.util.TipDialog/0.25.1792.1010@0.25.1792.1010" timestamp="1628997823949" />
+    <state x="482" y="117" width="827" height="825" key="find.popup" timestamp="1628999024602">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="482" y="117" width="827" height="825" key="find.popup/0.25.1792.1010@0.25.1792.1010" timestamp="1628999024602" />
   </component>
 </project>

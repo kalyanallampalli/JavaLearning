@@ -1,4 +1,4 @@
-package com.learning;
+package com.learning.day1;
 
 public class Multiplier {
     public int multiply(int n1, int n2, int n3) {
